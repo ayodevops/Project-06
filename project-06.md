@@ -12,9 +12,9 @@
 
 ![sudo-pvs](/images/sudo-pvs.PNG)
 
-![vg-create](/images/vg-create.PNG)
+![vgcreate](/images/vgcreate.PNG)
 
-![lv-create](/images/lv-create.PNG)
+![lvcreate](/images/lvcreate.PNG)
 
 ![vgdisplay](/images/vgdisplay.PNG)
 
