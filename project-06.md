@@ -46,9 +46,9 @@
 
 ![d-sudo-pvs](/images/d-sudo-pvs.PNG)
 
-![d-vg-create](/images/d-vg-create.PNG)
+![d-vgcreate](/images/d-vgcreate.PNG)
 
-![d-lv-create](/images/d-lv-create.PNG)
+![d-lvcreate](/images/d-lvcreate.PNG)
 
 ![d-ext4-db-lv](/images/d-ext4-db-lv.PNG)
 
