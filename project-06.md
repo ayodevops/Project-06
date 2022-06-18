@@ -1,7 +1,5 @@
 # Project 6 Documentation
 
-![redhat-php](/images/redhat-php.PNG)
-
 ![lsblk](/images/lsblk.PNG)
 
 ![gdisk-xvdg](/images/gdisk-xvdg.PNG)
@@ -42,6 +40,8 @@
 
 ![d-gdisk-xvdh](/images/d-gdisk-xvdh.PNG)
 
+![d-install-lvm2](/images/d-install-lvm2.PNG)
+
 ![d-pvcreate](/images/d-pvcreate.PNG)
 
 ![d-sudo-pvs](/images/d-sudo-pvs.PNG)
@@ -70,11 +70,11 @@
 
 ![php-start-enable](/images/php-start-enable.PNG)
 
-![d-fstab-update](/images/d-fstab-update.PNG)
-
 ![selinux](/images/selinux.PNG)
 
 ![restart-apache](/images/restart-apache.PNG)
+
+![redhat-php](/images/redhat-php.PNG)
 
 ![install-wordpress](/images/install-wordpress.PNG)
 
@@ -86,10 +86,4 @@
 
 ![changed-to-apache](/images/changed-to-apache.PNG)
 
-![wordpress/images/wordpress.PNG)
-
-![systemctl-start-enable](/images/systemctl-start-enable.PNG)
-
-![install-remi-8.0](/images/install-remi-8.0.PNG)
-
-![php-start-enable](/images/php-start-enable.PNG)
+![wordpress](/images/wordpress.PNG)
